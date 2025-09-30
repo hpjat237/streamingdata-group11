@@ -100,8 +100,8 @@ etl-realtime-northwind/
 1. **Clone dự án**:
 
    ```bash
-   git clone https://github.com/your_username/etl-realtime-northwind.git
-   cd etl-realtime-northwind
+   git clone https://github.com/hpjat237/streamingdata-group11
+   cd streamingdata-group11
    ```
 
    ![Clone Project](https://via.placeholder.com/600x200.png?text=Clone+Project)  
